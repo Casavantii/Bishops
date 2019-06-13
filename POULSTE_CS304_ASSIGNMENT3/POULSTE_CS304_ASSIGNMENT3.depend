@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1458746405 source:d:\onedrive\cs 304\poulste_cs304_assignment3\main.cpp
+	<iostream>
+	"DLinkedList.h"
+	"src\DLinkedList.cpp"
+	"Node.h"
+	"src\Node.cpp"
+	<ctime>
+	<cstdlib>
+
+1458745955 d:\onedrive\cs 304\poulste_cs304_assignment3\include\dlinkedlist.h
+	"Node.h"
+	<cstddef>
+	<cstdlib>
+	<iostream>
+	<conio.h>
+
+1458746432 d:\onedrive\cs 304\poulste_cs304_assignment3\include\node.h
+	<cstddef>
+	<cstdlib>
+	<iostream>
+	<conio.h>
+
+1458745977 source:d:\onedrive\cs 304\poulste_cs304_assignment3\src\dlinkedlist.cpp
+	"DLinkedList.h"
+
+1458746188 source:d:\onedrive\cs 304\poulste_cs304_assignment3\src\node.cpp
+	"Node.h"
+
+1458748687 d:\onedrive\cs 304\poulste_cs304_assignment3\src\dlinkedlist.cpp
+	"DLinkedList.h"
+
+1458746188 d:\onedrive\cs 304\poulste_cs304_assignment3\src\node.cpp
+	"Node.h"
+
